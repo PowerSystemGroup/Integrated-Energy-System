@@ -1,4 +1,4 @@
-# Integrated-Energy-System-
+# Integrated-Energy-System
 Integrated Energy System (IES) dataset containing operational data and simulation models for multi-energy coupling systems including electricity, heating, and gas networks. Supports research applications in IES planning, operation optimization, and energy efficiency analysis.
 # Power-to-hydrogen Intergrated energy system
 This repository contains the standard test case data and generalization experiment data from the paper "Optimal Capacity Planning for Grid -Connected Power-to-Hydrogen Integrated Energy System Considering Dynamic Hydrogen Production Efficiency".
