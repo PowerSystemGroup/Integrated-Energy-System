@@ -8,7 +8,8 @@ The dataset includes:
 
 Standard test cases: Benchmark data for integrated energy system modeling and optimization
 
-Generalization experiments: Extended datasets for validating model robustness across different scenarios
+Generalization experiments: Extended datasets for validating model robustness across four different scenarios
+including: 1.South Korea Youngnam 2.South Korea Gwuandong 3.South Korea Honam 4.Colombia La-Guajira 
 
 # Data Structure
 The data covers multi-energy coupling systems including electricity, electrolyzer, battery system, hydrogen tank, and fuel cell, providing comprehensive information for:
